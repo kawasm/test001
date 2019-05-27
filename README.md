@@ -1,2 +1,2 @@
 # test001
-Repository to play with.
+It's just a repository to play with. 
